@@ -12,7 +12,11 @@ import CardFooter from "components/Card/CardFooter.js";
 
 import styles from "assets/jss/material-dashboard-react/views/dashboardStyle.js";
 
+import about from "./about.js"
+import sam from "./sourcesAndMethods.js"
+import ack from "./acknowledgement.js"
 const useStyles = makeStyles(styles);
+
 
 export default function Introduction(){
     const classes = useStyles();
@@ -28,7 +32,8 @@ export default function Introduction(){
                         </p>
                         </CardHeader>
                         <CardBody>
-                        
+
+                            {about}
                         </CardBody>
                     </Card>
                 </GridItem>
@@ -41,7 +46,7 @@ export default function Introduction(){
                         </p>
                         </CardHeader>
                         <CardBody>
-                        
+                            Something about us
                         </CardBody>
                     </Card>
                 </GridItem>
@@ -54,7 +59,7 @@ export default function Introduction(){
                         </p>
                         </CardHeader>
                         <CardBody>
-                        
+                            {ack}
                         </CardBody>
                     </Card>
                 </GridItem>
