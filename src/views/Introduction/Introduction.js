@@ -46,7 +46,7 @@ export default function Introduction(){
                         </p>
                         </CardHeader>
                         <CardBody>
-                            Something about us
+                            We are here.
                         </CardBody>
                     </Card>
                 </GridItem>
