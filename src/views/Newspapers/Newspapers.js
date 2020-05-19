@@ -22,7 +22,7 @@ export default function Newspapers(){
                 <GridItem xs={12} sm={12} md={6}>
                     <Card>
                         <CardHeader color="success">
-                        <h4 className={classes.cardTitleWhite}>Palladium of Liberty</h4>
+                        <h4 className={classes.cardTitleWhite}>1840s: Palladium of Liberty</h4>
                         <p className={classes.cardCategoryWhite}>
                             
                         </p>
@@ -35,7 +35,7 @@ export default function Newspapers(){
                 <GridItem xs={12} sm={12} md={6}>
                     <Card>
                         <CardHeader color="success">
-                        <h4 className={classes.cardTitleWhite}>Aliened American</h4>
+                        <h4 className={classes.cardTitleWhite}>1850s: Aliened American</h4>
                         <p className={classes.cardCategoryWhite}>
                             
                         </p>
@@ -48,7 +48,7 @@ export default function Newspapers(){
                 <GridItem xs={12} sm={12} md={6}>
                     <Card>
                         <CardHeader color="success">
-                        <h4 className={classes.cardTitleWhite}>Black Press circa Civil War</h4>
+                        <h4 className={classes.cardTitleWhite}>1860s: Black Press circa the Civil War</h4>
                         <p className={classes.cardCategoryWhite}>
                             
                         </p>
@@ -61,7 +61,7 @@ export default function Newspapers(){
                 <GridItem xs={12} sm={12} md={6}>
                     <Card>
                         <CardHeader color="success">
-                        <h4 className={classes.cardTitleWhite}>2nd Generation of Black Journalism</h4>
+                        <h4 className={classes.cardTitleWhite}>1870s: 2nd Generation of Black Journalism</h4>
                         <p className={classes.cardCategoryWhite}>
                             
                         </p>
@@ -74,7 +74,7 @@ export default function Newspapers(){
                 <GridItem xs={12} sm={12} md={6}>
                     <Card>
                         <CardHeader color="success">
-                        <h4 className={classes.cardTitleWhite}>Renaissance of the Black Press in Ohio</h4>
+                        <h4 className={classes.cardTitleWhite}>1880s: Renaissance of the Black Press in Ohio</h4>
                         <p className={classes.cardCategoryWhite}>
                             
                         </p>
@@ -87,7 +87,7 @@ export default function Newspapers(){
                 <GridItem xs={12} sm={12} md={6}>
                     <Card>
                         <CardHeader color="success">
-                        <h4 className={classes.cardTitleWhite}>Beyond Ohio</h4>
+                        <h4 className={classes.cardTitleWhite}>1890s: Beyond Ohio</h4>
                         <p className={classes.cardCategoryWhite}>
                             
                         </p>
